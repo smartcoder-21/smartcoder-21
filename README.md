@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smartcoder-21
-- 👀 I’m interested in ... Encryption and security
+- 👀 I’m interested in ... Anything
 - 🌱 I’m currently learning ... Java, javascript, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
